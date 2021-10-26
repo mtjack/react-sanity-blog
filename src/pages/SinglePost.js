@@ -42,7 +42,6 @@ useEffect(() => {
                 <div>
                     <BlockContent blocks = {SinglePost.body} projectId = "a4w5cc74" dataset = "production" />
                 </div>
-
             </section>
         }
        </>
